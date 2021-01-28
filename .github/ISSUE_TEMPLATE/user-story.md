@@ -2,7 +2,7 @@
 name: User Story
 about: This is a template for defining user stories
 title: 'As a ____ I can ____ so that ____'
-labels: ''
+labels: 'user story'
 assignees: ''
 
 ---
