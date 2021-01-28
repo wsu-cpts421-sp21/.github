@@ -5,6 +5,8 @@ title: 'As a ____ I can ____ so that ____'
 labels: ''
 assignees: ''
 
+---
+
 # Acceptance Criteria
 
 - [ ] First thing that should be true when story is done.
