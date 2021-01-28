@@ -1,15 +1,9 @@
 ---
 name: User Story
 about: This is a template for defining user stories
-title: ''
+title: 'As a ____ I can ____ so that ____'
 labels: ''
 assignees: ''
-
----
-
-# User Story
-
-As a ____ I can ____ so that ____
 
 # Acceptance Criteria
 
